@@ -1,5 +1,5 @@
 wget 'https://raw.githubusercontent.com/houzi-/CDN/master/kp.dat' -O files/usr/share/koolproxy/data/rules/kp.dat
-wget 'https://raw.githubusercontent.com/houzi-/CDN/master/koolproxy.txt' -O files/usr/share/koolproxy/data/rules/koolproxy.txt
+wget 'https://raw.githubusercontent.com/fw869/AD/master/koolproxy.txt' -O files/usr/share/koolproxy/data/rules/koolproxy.txt
 wget 'https://raw.githubusercontent.com/houzi-/CDN/master/daily.txt' -O files/usr/share/koolproxy/data/rules/daily.txt
 wget 'https://kprule.com/user.txt' -O files/usr/share/koolproxy/data/user.txt
 wget 'https://raw.githubusercontent.com/houzi-/CDN/master/binary/v3.8.5/arm' -O files/bin/arm
